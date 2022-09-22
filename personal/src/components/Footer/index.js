@@ -1,4 +1,4 @@
-function Contact() {
+function Footer() {
   return (
     <div className="App">
 
@@ -6,4 +6,4 @@ function Contact() {
   );
 }
 
-export default Contact;
+export default Footer;
